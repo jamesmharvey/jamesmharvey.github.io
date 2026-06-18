@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A personal blog by James Harvey.
+Essays on data, cities, and other things, by James Harvey.

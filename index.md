@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Technical notes on data, cities, and other things.
+Essays on data, cities, and other things.

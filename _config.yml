@@ -1,10 +1,7 @@
 title: Numbers and Other Things
 description: >-
-  A personal blog on data, cities, and other things.
+  Essays on data, cities, and other things.
+url: "https://numbersandotherthings.com"
 theme: minima
 plugins:
   - jekyll-feed
-
-# Custom domain: set this (and add a CNAME file) once the Route 53 DNS records
-# are in place, so we don't create a broken redirect before DNS resolves.
-# url: "https://numbersandotherthings.com"
